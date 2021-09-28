@@ -9,3 +9,5 @@
 ## Game reqirements
 - Resolution - 640x480
 - Fullscreen - No
+
+### [Video](https://youtu.be/1JmyBIp6qdA)
